@@ -1,0 +1,60 @@
+img
+{
+    float: left;
+    width: 140px;
+    height: 170px;
+    border-radius: 20px;
+    display: grid;
+}
+
+.name
+{
+    font-size: 25px;
+    font-weight:bold;
+    padding-left: 20px;
+}
+
+a
+{
+    text-align: center;
+    align-content: center;
+}
+
+.heading
+{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+table,td,tr,th
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    height:20px;
+}
+
+#course
+{
+    width: 11%
+}
+#place
+{
+    width: 68%;
+}
+#score
+{
+    width:10%;
+}
+#year
+{
+    width: 10%;
+}
+
+.year
+{
+    float: right;
+}
+
+
